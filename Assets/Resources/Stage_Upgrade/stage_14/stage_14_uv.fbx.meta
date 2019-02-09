@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: afeb60a3ff296004185eb7c34dea5f79
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: camping_car_body_1
+    100004: camping_car_wheel_1
+    100006: Chair_1
+    100008: cloud
+    100010: Direct002
+    100012: Direct004
+    100014: Direct005
+    100016: Direct006
+    100018: FDirect001
+    100020: Flags_01
+    100022: Flags_02
+    100024: islands_1
+    100026: nomal_car_body_1
+    100028: nomal_car_wheel_1
+    100030: Pyramid_1
+    100032: road_line_1
+    100034: sensor_5
+    100036: sensor_6
+    100038: sensor_7
+    100040: sensor_8
+    100042: sensor_9
+    100044: short_tree_1
+    100046: //RootNode
+    100048: Stage_camera
+    100050: table_set_1
+    100052: Tent_1
+    100054: tree
+    100056: Unity_setting
+    400000: bg_1
+    400002: camping_car_body_1
+    400004: camping_car_wheel_1
+    400006: Chair_1
+    400008: cloud
+    400010: Direct002
+    400012: Direct004
+    400014: Direct005
+    400016: Direct006
+    400018: FDirect001
+    400020: Flags_01
+    400022: Flags_02
+    400024: islands_1
+    400026: nomal_car_body_1
+    400028: nomal_car_wheel_1
+    400030: Pyramid_1
+    400032: road_line_1
+    400034: sensor_5
+    400036: sensor_6
+    400038: sensor_7
+    400040: sensor_8
+    400042: sensor_9
+    400044: short_tree_1
+    400046: //RootNode
+    400048: Stage_camera
+    400050: table_set_1
+    400052: Tent_1
+    400054: tree
+    400056: Unity_setting
+    2000000: Stage_camera
+    2100000: flags
+    2100002: cloud
+    2100004: sensor.1
+    2100006: road line
+    2100008: tree
+    2100010: islands
+    2100012: bg.1
+    2100014: Pyramid
+    2100016: short tree.1
+    2100018: Tent
+    2100020: chair
+    2100022: table set.1
+    2100024: camping car_wheel
+    2100026: camping car_body
+    2100028: nomal car_wheel
+    2100030: nomal car_body
+    2300000: bg_1
+    2300002: camping_car_body_1
+    2300004: camping_car_wheel_1
+    2300006: Chair_1
+    2300008: cloud
+    2300010: Flags_01
+    2300012: Flags_02
+    2300014: islands_1
+    2300016: nomal_car_body_1
+    2300018: nomal_car_wheel_1
+    2300020: Pyramid_1
+    2300022: road_line_1
+    2300024: sensor_5
+    2300026: sensor_6
+    2300028: sensor_7
+    2300030: sensor_8
+    2300032: sensor_9
+    2300034: short_tree_1
+    2300036: table_set_1
+    2300038: Tent_1
+    2300040: tree
+    3300000: bg_1
+    3300002: camping_car_body_1
+    3300004: camping_car_wheel_1
+    3300006: Chair_1
+    3300008: cloud
+    3300010: Flags_01
+    3300012: Flags_02
+    3300014: islands_1
+    3300016: nomal_car_body_1
+    3300018: nomal_car_wheel_1
+    3300020: Pyramid_1
+    3300022: road_line_1
+    3300024: sensor_5
+    3300026: sensor_6
+    3300028: sensor_7
+    3300030: sensor_8
+    3300032: sensor_9
+    3300034: short_tree_1
+    3300036: table_set_1
+    3300038: Tent_1
+    3300040: tree
+    4300000: Flags_02
+    4300002: Flags_01
+    4300004: cloud
+    4300006: sensor_9
+    4300008: sensor_8
+    4300010: sensor_7
+    4300012: sensor_6
+    4300014: sensor_5
+    4300016: road_line_1
+    4300018: tree
+    4300020: islands_1
+    4300022: bg_1
+    4300024: Pyramid_1
+    4300026: short_tree_1
+    4300028: Tent_1
+    4300030: Chair_1
+    4300032: table_set_1
+    4300034: camping_car_wheel_1
+    4300036: camping_car_body_1
+    4300038: nomal_car_wheel_1
+    4300040: nomal_car_body_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

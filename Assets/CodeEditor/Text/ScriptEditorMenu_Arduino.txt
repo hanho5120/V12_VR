@@ -1,0 +1,59 @@
+
+//################################
+addrootnode  /name:"[Logic]"
+//################################
+
+addcmdnode  /name:"Expression"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"Serial.print"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"Serial.println"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"if"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"else"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"else if"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"for"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"while"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"function"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"setup function"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+addcmdnode  /name:"loop function"  /type:cmd  /forecolor:Crimson  /tooltiptext:
+
+
+//################################
+addrootnode  /name:"[Blank]"
+//################################
+
+
+//################################
+addrootnode  /name:"[Arduino]"
+//################################
+
+
+addcmdnode  /name:"delay"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"digitalRead"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"digitalWrite"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"digitalWriteHigh"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"digitalWriteLow"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"analogRead"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"analogWrite"  /type:cmd  /forecolor:Crimson  /tooltiptext: 
+
+addcmdnode  /name:"tone"  /type:cmd  /forecolor:Crimson  /tooltiptext:   
+
+addcmdnode  /name:"driveWrite"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"servoWrite"  /type:cmd  /forecolor:Crimson  /tooltiptext:  
+
+addcmdnode  /name:"map"  /type:cmd  /forecolor:Crimson  /tooltiptext:

@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 7351d9cd8ffcc674cbfe61019df322e9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: B_L_leg
+    100002: B_R_leg
+    100004: Camera
+    100006: DOG
+    100008: //RootNode
+    100010: f_L_leg
+    100012: f_R_leg
+    100014: L_ear
+    100016: Null_1
+    100018: Null_2
+    100020: R_ear
+    100022: tail
+    100024: tongue
+    400000: B_L_leg
+    400002: B_R_leg
+    400004: Camera
+    400006: DOG
+    400008: //RootNode
+    400010: f_L_leg
+    400012: f_R_leg
+    400014: L_ear
+    400016: Null_1
+    400018: Null_2
+    400020: R_ear
+    400022: tail
+    400024: tongue
+    2000000: Camera
+    2100000: DOG.1
+    2100002: f_L leg.1
+    2100004: f_R leg.1
+    2100006: B_L leg.1
+    2100008: B_R leg.1
+    2100010: tail.1
+    2100012: L_ear.1
+    2100014: R_ear.1
+    2100016: tongue.1
+    2300000: B_L_leg
+    2300002: B_R_leg
+    2300004: DOG
+    2300006: f_L_leg
+    2300008: f_R_leg
+    2300010: L_ear
+    2300012: R_ear
+    2300014: tail
+    2300016: tongue
+    3300000: B_L_leg
+    3300002: B_R_leg
+    3300004: DOG
+    3300006: f_L_leg
+    3300008: f_R_leg
+    3300010: L_ear
+    3300012: R_ear
+    3300014: tail
+    3300016: tongue
+    4300000: DOG
+    4300002: f_L_leg
+    4300004: f_R_leg
+    4300006: B_L_leg
+    4300008: B_R_leg
+    4300010: tail
+    4300012: L_ear
+    4300014: R_ear
+    4300016: tongue
+    7400000: Idle
+    7400002: Run
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: CINEMA_4D_Main
+      firstFrame: 51
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

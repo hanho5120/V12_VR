@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: cc2cb85fe57500944945d87de00f3913
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bench_1
+    100002: bg_1
+    100004: big_trash_can_1
+    100006: cloud
+    100008: cloud_10
+    100010: cloud_11
+    100012: cloud_12
+    100014: cloud_13
+    100016: cloud_8
+    100018: cloud_9
+    100020: Direct002
+    100022: Direct004
+    100024: Direct005
+    100026: Direct006
+    100028: FDirect001
+    100030: fence
+    100032: goal_01_1
+    100034: goal_02_1
+    100036: ground_1
+    100038: ICE_cream_car_1
+    100040: Ice_Cream_wheel_1
+    100042: nomal_car_body_1
+    100044: nomal_car_wheel_1
+    100046: sensor
+    100048: sensor_6
+    100050: sensor_7
+    100052: sensor_8
+    100054: sensor_9
+    100056: Signboard_1
+    100058: //RootNode
+    100060: Stage_camera_1
+    100062: street_lamp
+    100064: trash_can
+    100066: tree_09
+    100068: Unity_setting
+    100070: wall_02_1
+    100072: wall_1
+    100074: warn_sign_1
+    400000: bench_1
+    400002: bg_1
+    400004: big_trash_can_1
+    400006: cloud
+    400008: cloud_10
+    400010: cloud_11
+    400012: cloud_12
+    400014: cloud_13
+    400016: cloud_8
+    400018: cloud_9
+    400020: Direct002
+    400022: Direct004
+    400024: Direct005
+    400026: Direct006
+    400028: FDirect001
+    400030: fence
+    400032: goal_01_1
+    400034: goal_02_1
+    400036: ground_1
+    400038: ICE_cream_car_1
+    400040: Ice_Cream_wheel_1
+    400042: nomal_car_body_1
+    400044: nomal_car_wheel_1
+    400046: sensor
+    400048: sensor_6
+    400050: sensor_7
+    400052: sensor_8
+    400054: sensor_9
+    400056: Signboard_1
+    400058: //RootNode
+    400060: Stage_camera_1
+    400062: street_lamp
+    400064: trash_can
+    400066: tree_09
+    400068: Unity_setting
+    400070: wall_02_1
+    400072: wall_1
+    400074: warn_sign_1
+    2000000: Stage_camera_1
+    2100000: lamp
+    2100002: trash_can
+    2100004: cloud
+    2100006: ICE cream car
+    2100008: sensor.1
+    2100010: Ice Cream_wheel.1
+    2100012: fence
+    2100014: bg.1
+    2100016: ground.1
+    2100018: big_trash can.1
+    2100020: tree
+    2100022: goal_01
+    2100024: goal_02
+    2100026: wall_02
+    2100028: wall.1
+    2100030: warn sign.1
+    2100032: bench
+    2100034: Signboard
+    2100036: nomal car_wheel
+    2100038: nomal car_body
+    2300000: bench_1
+    2300002: bg_1
+    2300004: big_trash_can_1
+    2300006: cloud
+    2300008: cloud_10
+    2300010: cloud_11
+    2300012: cloud_12
+    2300014: cloud_13
+    2300016: cloud_8
+    2300018: cloud_9
+    2300020: fence
+    2300022: goal_01_1
+    2300024: goal_02_1
+    2300026: ground_1
+    2300028: ICE_cream_car_1
+    2300030: Ice_Cream_wheel_1
+    2300032: nomal_car_body_1
+    2300034: nomal_car_wheel_1
+    2300036: sensor
+    2300038: sensor_6
+    2300040: sensor_7
+    2300042: sensor_8
+    2300044: sensor_9
+    2300046: Signboard_1
+    2300048: street_lamp
+    2300050: trash_can
+    2300052: tree_09
+    2300054: wall_02_1
+    2300056: wall_1
+    2300058: warn_sign_1
+    3300000: bench_1
+    3300002: bg_1
+    3300004: big_trash_can_1
+    3300006: cloud
+    3300008: cloud_10
+    3300010: cloud_11
+    3300012: cloud_12
+    3300014: cloud_13
+    3300016: cloud_8
+    3300018: cloud_9
+    3300020: fence
+    3300022: goal_01_1
+    3300024: goal_02_1
+    3300026: ground_1
+    3300028: ICE_cream_car_1
+    3300030: Ice_Cream_wheel_1
+    3300032: nomal_car_body_1
+    3300034: nomal_car_wheel_1
+    3300036: sensor
+    3300038: sensor_6
+    3300040: sensor_7
+    3300042: sensor_8
+    3300044: sensor_9
+    3300046: Signboard_1
+    3300048: street_lamp
+    3300050: trash_can
+    3300052: tree_09
+    3300054: wall_02_1
+    3300056: wall_1
+    3300058: warn_sign_1
+    4300000: street_lamp
+    4300002: trash_can
+    4300004: cloud_13
+    4300006: cloud_12
+    4300008: cloud_11
+    4300010: cloud_10
+    4300012: cloud_9
+    4300014: cloud_8
+    4300016: cloud
+    4300018: ICE_cream_car_1
+    4300020: sensor_9
+    4300022: sensor_8
+    4300024: sensor_7
+    4300026: sensor_6
+    4300028: sensor
+    4300030: Ice_Cream_wheel_1
+    4300032: fence
+    4300034: bg_1
+    4300036: ground_1
+    4300038: big_trash_can_1
+    4300040: tree_09
+    4300042: goal_01_1
+    4300044: goal_02_1
+    4300046: wall_02_1
+    4300048: wall_1
+    4300050: warn_sign_1
+    4300052: bench_1
+    4300054: Signboard_1
+    4300056: nomal_car_wheel_1
+    4300058: nomal_car_body_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

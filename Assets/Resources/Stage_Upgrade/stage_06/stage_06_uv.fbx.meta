@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 81545b55a5a7db64bb254d5ec897c997
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Audio_Amp_1
+    100002: bg_1
+    100004: character_1
+    100006: Direct002
+    100008: Direct004
+    100010: Direct005
+    100012: Direct006
+    100014: FDirect001
+    100016: Guitar_1
+    100018: music_note_01_1
+    100020: music_note_02_1
+    100022: music_note_03_1
+    100024: music_note_04_1
+    100026: music_note_05_1
+    100028: music_note_06_1
+    100030: music_note_07_1
+    100032: PIANO_1
+    100034: posters
+    100036: record_package
+    100038: record_pop_1
+    100040: RUG_1
+    100042: sensor
+    100044: Speaker_01_02_1
+    100046: Speaker_01_1
+    100048: Speaker_02_02_1
+    100050: Speaker_02_1
+    100052: Speaker_03_02_1
+    100054: Speaker_03_1
+    100056: //RootNode
+    100058: Stage_camera
+    100060: stand_1
+    100062: turn_table_1
+    100064: Unity_setting
+    400000: Audio_Amp_1
+    400002: bg_1
+    400004: character_1
+    400006: Direct002
+    400008: Direct004
+    400010: Direct005
+    400012: Direct006
+    400014: FDirect001
+    400016: Guitar_1
+    400018: music_note_01_1
+    400020: music_note_02_1
+    400022: music_note_03_1
+    400024: music_note_04_1
+    400026: music_note_05_1
+    400028: music_note_06_1
+    400030: music_note_07_1
+    400032: PIANO_1
+    400034: posters
+    400036: record_package
+    400038: record_pop_1
+    400040: RUG_1
+    400042: sensor
+    400044: Speaker_01_02_1
+    400046: Speaker_01_1
+    400048: Speaker_02_02_1
+    400050: Speaker_02_1
+    400052: Speaker_03_02_1
+    400054: Speaker_03_1
+    400056: //RootNode
+    400058: Stage_camera
+    400060: stand_1
+    400062: turn_table_1
+    400064: Unity_setting
+    2000000: Stage_camera
+    2100000: bg.1
+    2100002: RUG
+    2100004: posters
+    2100006: record package
+    2100008: turn table.1
+    2100010: Guitar
+    2100012: PIANO
+    2100014: record pop.1
+    2100016: Audio Amp
+    2100018: Speaker_01_02
+    2100020: Speaker_01
+    2100022: Speaker_02_02
+    2100024: Speaker_02
+    2100026: Speaker_03_02
+    2100028: Speaker_03
+    2100030: music note_01
+    2100032: music note_02
+    2100034: music note_03
+    2100036: music note_04
+    2100038: music note_05
+    2100040: music note_06
+    2100042: music note_07
+    2100044: sensor.1
+    2100046: character
+    2100048: long stand
+    2300000: Audio_Amp_1
+    2300002: bg_1
+    2300004: character_1
+    2300006: Guitar_1
+    2300008: music_note_01_1
+    2300010: music_note_02_1
+    2300012: music_note_03_1
+    2300014: music_note_04_1
+    2300016: music_note_05_1
+    2300018: music_note_06_1
+    2300020: music_note_07_1
+    2300022: PIANO_1
+    2300024: posters
+    2300026: record_package
+    2300028: record_pop_1
+    2300030: RUG_1
+    2300032: sensor
+    2300034: Speaker_01_02_1
+    2300036: Speaker_01_1
+    2300038: Speaker_02_02_1
+    2300040: Speaker_02_1
+    2300042: Speaker_03_02_1
+    2300044: Speaker_03_1
+    2300046: stand_1
+    2300048: turn_table_1
+    3300000: Audio_Amp_1
+    3300002: bg_1
+    3300004: character_1
+    3300006: Guitar_1
+    3300008: music_note_01_1
+    3300010: music_note_02_1
+    3300012: music_note_03_1
+    3300014: music_note_04_1
+    3300016: music_note_05_1
+    3300018: music_note_06_1
+    3300020: music_note_07_1
+    3300022: PIANO_1
+    3300024: posters
+    3300026: record_package
+    3300028: record_pop_1
+    3300030: RUG_1
+    3300032: sensor
+    3300034: Speaker_01_02_1
+    3300036: Speaker_01_1
+    3300038: Speaker_02_02_1
+    3300040: Speaker_02_1
+    3300042: Speaker_03_02_1
+    3300044: Speaker_03_1
+    3300046: stand_1
+    3300048: turn_table_1
+    4300000: bg_1
+    4300002: RUG_1
+    4300004: posters
+    4300006: record_package
+    4300008: turn_table_1
+    4300010: Guitar_1
+    4300012: PIANO_1
+    4300014: record_pop_1
+    4300016: Audio_Amp_1
+    4300018: Speaker_01_02_1
+    4300020: Speaker_01_1
+    4300022: Speaker_02_02_1
+    4300024: Speaker_02_1
+    4300026: Speaker_03_02_1
+    4300028: Speaker_03_1
+    4300030: music_note_01_1
+    4300032: music_note_02_1
+    4300034: music_note_03_1
+    4300036: music_note_04_1
+    4300038: music_note_05_1
+    4300040: music_note_06_1
+    4300042: music_note_07_1
+    4300044: sensor
+    4300046: character_1
+    4300048: stand_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Audio Amp
+    second: {fileID: 2100000, guid: ab6ad404c86a21e4e8811b394efd7f5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Guitar
+    second: {fileID: 2100000, guid: e357098efdec5204cbc35c909ab9e068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO
+    second: {fileID: 2100000, guid: 45744c8725fa8b546af4374c0905a85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RUG
+    second: {fileID: 2100000, guid: df959dfd17bb3054bb7bcafb36ad2eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_01
+    second: {fileID: 2100000, guid: 6a6126c46fa5ace4d93d06a87b8950e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_01_02
+    second: {fileID: 2100000, guid: fcd3a7e3cbae7bc4e90a133b3b223e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_02
+    second: {fileID: 2100000, guid: 55be02a2b7a86de4ab75f95c820e5fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_02_02
+    second: {fileID: 2100000, guid: 91ecb33c69a09dd468a6cc7cd1cf4482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_03
+    second: {fileID: 2100000, guid: f67a110fafac7924684639fa965c2d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speaker_03_02
+    second: {fileID: 2100000, guid: ded954c78e14dc445bed9f7f2e9f953a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg.1
+    second: {fileID: 2100000, guid: 0b328ff07940c3640bf7b863319d27cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character
+    second: {fileID: 2100000, guid: 2a4d082587cb9d549b7aff2e38d4316c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long stand
+    second: {fileID: 2100000, guid: bcb270449538ffd438d940a26033d521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_01
+    second: {fileID: 2100000, guid: 6fda0da3ed41a1348aa84f3d6359740f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_02
+    second: {fileID: 2100000, guid: 5bf78e47cc9b16c4db25f8aee329e9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_03
+    second: {fileID: 2100000, guid: 9bc67e3cb1791f349972131e2844d982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_04
+    second: {fileID: 2100000, guid: e2c398ce7cdf442418673ccb2aba6670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_05
+    second: {fileID: 2100000, guid: 475e628585b20b04cb86c65e5c91733e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_06
+    second: {fileID: 2100000, guid: 6fe37a9167b309b4f8b7a86633273572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: music note_07
+    second: {fileID: 2100000, guid: 305135a933d420f4f9c0719361417c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: posters
+    second: {fileID: 2100000, guid: e8d48617b6446ef46967df28a9f52f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: record package
+    second: {fileID: 2100000, guid: 6254502af8a5e0a4a8e78cbdba0c9bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: record pop.1
+    second: {fileID: 2100000, guid: 0c5257b42d88a784f82bfb69b2a78d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sensor.1
+    second: {fileID: 2100000, guid: 11ac3d3896027814d96e853501ca16e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turn table.1
+    second: {fileID: 2100000, guid: 5022dc77aa73ba44d8b0bc5ced84b6c8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

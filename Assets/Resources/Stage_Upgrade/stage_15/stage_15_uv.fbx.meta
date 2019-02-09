@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: b020c7bd599c492418c5a04b52f81697
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: CINEMA_4D_Editor
+    100004: cloud_1
+    100006: Cube_1
+    100008: Direct002
+    100010: Direct004
+    100012: Direct005
+    100014: Direct006
+    100016: FDirect001
+    100018: flag_01
+    100020: Flag_02
+    100022: Flag_1
+    100024: maze
+    100026: nomal_car_body_1
+    100028: nomal_car_wheel_1
+    100030: sensor_5
+    100032: sensor_6
+    100034: sensor_7
+    100036: sensor_8
+    100038: sensor_9
+    100040: small_billboard_1
+    100042: //RootNode
+    100044: Stage_camera
+    100046: trees
+    100048: Unity_setting
+    400000: bg_1
+    400002: CINEMA_4D_Editor
+    400004: cloud_1
+    400006: Cube_1
+    400008: Direct002
+    400010: Direct004
+    400012: Direct005
+    400014: Direct006
+    400016: FDirect001
+    400018: flag_01
+    400020: Flag_02
+    400022: Flag_1
+    400024: maze
+    400026: nomal_car_body_1
+    400028: nomal_car_wheel_1
+    400030: sensor_5
+    400032: sensor_6
+    400034: sensor_7
+    400036: sensor_8
+    400038: sensor_9
+    400040: small_billboard_1
+    400042: //RootNode
+    400044: Stage_camera
+    400046: trees
+    400048: Unity_setting
+    2000000: CINEMA_4D_Editor
+    2000002: Stage_camera
+    2100000: maze
+    2100002: flag_01.1
+    2100004: Flag_02.1
+    2100006: cloud
+    2100008: cube
+    2100010: bg.1
+    2100012: small billboard.1
+    2100014: tree
+    2100016: nomal car_wheel
+    2100018: nomal car_body
+    2100020: sensor.1
+    2100022: sensor.2
+    2100024: sensor.3
+    2100026: sensor.4
+    2100028: sensor.5
+    2100030: Flag
+    2300000: bg_1
+    2300002: cloud_1
+    2300004: Cube_1
+    2300006: flag_01
+    2300008: Flag_02
+    2300010: Flag_1
+    2300012: maze
+    2300014: nomal_car_body_1
+    2300016: nomal_car_wheel_1
+    2300018: sensor_5
+    2300020: sensor_6
+    2300022: sensor_7
+    2300024: sensor_8
+    2300026: sensor_9
+    2300028: small_billboard_1
+    2300030: trees
+    3300000: bg_1
+    3300002: cloud_1
+    3300004: Cube_1
+    3300006: flag_01
+    3300008: Flag_02
+    3300010: Flag_1
+    3300012: maze
+    3300014: nomal_car_body_1
+    3300016: nomal_car_wheel_1
+    3300018: sensor_5
+    3300020: sensor_6
+    3300022: sensor_7
+    3300024: sensor_8
+    3300026: sensor_9
+    3300028: small_billboard_1
+    3300030: trees
+    4300000: maze
+    4300002: flag_01
+    4300004: Flag_02
+    4300006: cloud_1
+    4300008: Cube_1
+    4300010: bg_1
+    4300012: small_billboard_1
+    4300014: trees
+    4300016: nomal_car_wheel_1
+    4300018: nomal_car_body_1
+    4300020: sensor_9
+    4300022: sensor_8
+    4300024: sensor_7
+    4300026: sensor_6
+    4300028: sensor_5
+    4300030: Flag_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: ff3026a0fba974841b4fb429f2a6bbb6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: bick_desk_1
+    100004: book_01_1
+    100006: book_02_1
+    100008: book_03_1
+    100010: book_04_1
+    100012: book_05_1
+    100014: book_06_1
+    100016: book_07_1
+    100018: book_08_1
+    100020: book_09_1
+    100022: book_10_1
+    100024: book_11_1
+    100026: book_12_1
+    100028: book_13_1
+    100030: book_14_1
+    100032: book_15_1
+    100034: book_16_1
+    100036: book_17_1
+    100038: book_18_1
+    100040: book_19_1
+    100042: book_20_1
+    100044: book_21_1
+    100046: book_22_1
+    100048: book_23_1
+    100050: book_24_1
+    100052: book_25_1
+    100054: Book_box_01_1
+    100056: Book_box_02_1
+    100058: bookshelf_1
+    100060: cactus_1
+    100062: coke_1
+    100064: cushion_01_1
+    100066: cushion_02_1
+    100068: desk_1
+    100070: Direct002
+    100072: Direct004
+    100074: Direct005
+    100076: Direct006
+    100078: FDirect001
+    100080: frame_01_1
+    100082: frame_02_1
+    100084: frame_03_1
+    100086: mini_clock_1
+    100088: mini_sofa_1
+    100090: pizza_1
+    100092: pizza_box_1
+    100094: rug_1
+    100096: sofa_1
+    100098: speaker_01_1
+    100100: speaker_02_1
+    100102: //RootNode
+    100104: Stage_camera
+    100106: stand
+    100108: tv_1
+    100110: Unity_setting
+    100112: up_stand_1
+    400000: bg_1
+    400002: bick_desk_1
+    400004: book_01_1
+    400006: book_02_1
+    400008: book_03_1
+    400010: book_04_1
+    400012: book_05_1
+    400014: book_06_1
+    400016: book_07_1
+    400018: book_08_1
+    400020: book_09_1
+    400022: book_10_1
+    400024: book_11_1
+    400026: book_12_1
+    400028: book_13_1
+    400030: book_14_1
+    400032: book_15_1
+    400034: book_16_1
+    400036: book_17_1
+    400038: book_18_1
+    400040: book_19_1
+    400042: book_20_1
+    400044: book_21_1
+    400046: book_22_1
+    400048: book_23_1
+    400050: book_24_1
+    400052: book_25_1
+    400054: Book_box_01_1
+    400056: Book_box_02_1
+    400058: bookshelf_1
+    400060: cactus_1
+    400062: coke_1
+    400064: cushion_01_1
+    400066: cushion_02_1
+    400068: desk_1
+    400070: Direct002
+    400072: Direct004
+    400074: Direct005
+    400076: Direct006
+    400078: FDirect001
+    400080: frame_01_1
+    400082: frame_02_1
+    400084: frame_03_1
+    400086: mini_clock_1
+    400088: mini_sofa_1
+    400090: pizza_1
+    400092: pizza_box_1
+    400094: rug_1
+    400096: sofa_1
+    400098: speaker_01_1
+    400100: speaker_02_1
+    400102: //RootNode
+    400104: Stage_camera
+    400106: stand
+    400108: tv_1
+    400110: Unity_setting
+    400112: up_stand_1
+    2000000: Stage_camera
+    2100000: long stand
+    2100002: bg.1
+    2100004: mini sofa.1
+    2100006: sofa.1
+    2100008: cushion_02.1
+    2100010: cushion_01.1
+    2100012: rug.1
+    2100014: bick desk
+    2100016: coke.1
+    2100018: pizza box.1
+    2100020: pizza.1
+    2100022: up stand
+    2100024: frame_03.1
+    2100026: frame_02.1
+    2100028: frame_01.1
+    2100030: bookshelf.1
+    2100032: Book box_02
+    2100034: Book box_01
+    2100036: mini clock.1
+    2100038: desk.1
+    2100040: tv.1
+    2100042: speaker_02.1
+    2100044: speaker_01
+    2100046: cactus.1
+    2100048: book_01
+    2100050: book_02
+    2100052: book_03
+    2100054: book_04
+    2100056: book_05
+    2100058: book_06
+    2100060: book_07
+    2100062: book_08
+    2100064: book_09
+    2100066: book_10
+    2100068: book_11
+    2100070: book_12
+    2100072: book_13
+    2100074: book_14
+    2100076: book_15
+    2100078: book_16
+    2100080: book_17
+    2100082: book_18
+    2100084: book_19
+    2100086: book_20
+    2100088: book_21
+    2100090: book_22
+    2100092: book_23
+    2100094: book_24
+    2100096: book_25
+    2300000: bg_1
+    2300002: bick_desk_1
+    2300004: book_01_1
+    2300006: book_02_1
+    2300008: book_03_1
+    2300010: book_04_1
+    2300012: book_05_1
+    2300014: book_06_1
+    2300016: book_07_1
+    2300018: book_08_1
+    2300020: book_09_1
+    2300022: book_10_1
+    2300024: book_11_1
+    2300026: book_12_1
+    2300028: book_13_1
+    2300030: book_14_1
+    2300032: book_15_1
+    2300034: book_16_1
+    2300036: book_17_1
+    2300038: book_18_1
+    2300040: book_19_1
+    2300042: book_20_1
+    2300044: book_21_1
+    2300046: book_22_1
+    2300048: book_23_1
+    2300050: book_24_1
+    2300052: book_25_1
+    2300054: Book_box_01_1
+    2300056: Book_box_02_1
+    2300058: bookshelf_1
+    2300060: cactus_1
+    2300062: coke_1
+    2300064: cushion_01_1
+    2300066: cushion_02_1
+    2300068: desk_1
+    2300070: frame_01_1
+    2300072: frame_02_1
+    2300074: frame_03_1
+    2300076: mini_clock_1
+    2300078: mini_sofa_1
+    2300080: pizza_1
+    2300082: pizza_box_1
+    2300084: rug_1
+    2300086: sofa_1
+    2300088: speaker_01_1
+    2300090: speaker_02_1
+    2300092: stand
+    2300094: tv_1
+    2300096: up_stand_1
+    3300000: bg_1
+    3300002: bick_desk_1
+    3300004: book_01_1
+    3300006: book_02_1
+    3300008: book_03_1
+    3300010: book_04_1
+    3300012: book_05_1
+    3300014: book_06_1
+    3300016: book_07_1
+    3300018: book_08_1
+    3300020: book_09_1
+    3300022: book_10_1
+    3300024: book_11_1
+    3300026: book_12_1
+    3300028: book_13_1
+    3300030: book_14_1
+    3300032: book_15_1
+    3300034: book_16_1
+    3300036: book_17_1
+    3300038: book_18_1
+    3300040: book_19_1
+    3300042: book_20_1
+    3300044: book_21_1
+    3300046: book_22_1
+    3300048: book_23_1
+    3300050: book_24_1
+    3300052: book_25_1
+    3300054: Book_box_01_1
+    3300056: Book_box_02_1
+    3300058: bookshelf_1
+    3300060: cactus_1
+    3300062: coke_1
+    3300064: cushion_01_1
+    3300066: cushion_02_1
+    3300068: desk_1
+    3300070: frame_01_1
+    3300072: frame_02_1
+    3300074: frame_03_1
+    3300076: mini_clock_1
+    3300078: mini_sofa_1
+    3300080: pizza_1
+    3300082: pizza_box_1
+    3300084: rug_1
+    3300086: sofa_1
+    3300088: speaker_01_1
+    3300090: speaker_02_1
+    3300092: stand
+    3300094: tv_1
+    3300096: up_stand_1
+    4300000: stand
+    4300002: bg_1
+    4300004: mini_sofa_1
+    4300006: sofa_1
+    4300008: cushion_02_1
+    4300010: cushion_01_1
+    4300012: rug_1
+    4300014: bick_desk_1
+    4300016: coke_1
+    4300018: pizza_box_1
+    4300020: pizza_1
+    4300022: up_stand_1
+    4300024: frame_03_1
+    4300026: frame_02_1
+    4300028: frame_01_1
+    4300030: bookshelf_1
+    4300032: Book_box_02_1
+    4300034: Book_box_01_1
+    4300036: mini_clock_1
+    4300038: desk_1
+    4300040: tv_1
+    4300042: speaker_02_1
+    4300044: speaker_01_1
+    4300046: cactus_1
+    4300048: book_01_1
+    4300050: book_02_1
+    4300052: book_03_1
+    4300054: book_04_1
+    4300056: book_05_1
+    4300058: book_06_1
+    4300060: book_07_1
+    4300062: book_08_1
+    4300064: book_09_1
+    4300066: book_10_1
+    4300068: book_11_1
+    4300070: book_12_1
+    4300072: book_13_1
+    4300074: book_14_1
+    4300076: book_15_1
+    4300078: book_16_1
+    4300080: book_17_1
+    4300082: book_18_1
+    4300084: book_19_1
+    4300086: book_20_1
+    4300088: book_21_1
+    4300090: book_22_1
+    4300092: book_23_1
+    4300094: book_24_1
+    4300096: book_25_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book box_01
+    second: {fileID: 2100000, guid: c5379524ad8558646ad48d67cdd464b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book box_02
+    second: {fileID: 2100000, guid: f5a46514d0d305345b04eafeac7732d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg.1
+    second: {fileID: 2100000, guid: 67444d6e793d756439be3951aee7e97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bick desk
+    second: {fileID: 2100000, guid: d44bcc209d2b0c74ebadb3462896d7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_01
+    second: {fileID: 2100000, guid: 04d26f9b924164047937d0f11ca7eca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_02
+    second: {fileID: 2100000, guid: 13bedd85547e241408fee34e3d2490b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_03
+    second: {fileID: 2100000, guid: 77fd108b57d32c843bab30be8756f92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_04
+    second: {fileID: 2100000, guid: 3a6a1e56d27e7444f8a92272d6ef4646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_05
+    second: {fileID: 2100000, guid: d27e50b9aa1877c429a1634ced265904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_06
+    second: {fileID: 2100000, guid: 21e34c7cd5d2eed48b0215fe7c9fd570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_07
+    second: {fileID: 2100000, guid: ffede3c639e311944b192ba159fda10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_08
+    second: {fileID: 2100000, guid: 3cb5e576ad1b2484da70a1059bc841f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_09
+    second: {fileID: 2100000, guid: d1265017fdbf10445acb8641af314125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_10
+    second: {fileID: 2100000, guid: 48d8197fbc97dbd4ea266e85d91ee555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_11
+    second: {fileID: 2100000, guid: 0d0a3ee74b1c8264899552395cf4087a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_12
+    second: {fileID: 2100000, guid: 2663995643d257a4d9e7852376ef8850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_13
+    second: {fileID: 2100000, guid: d11e498532ce85c4b95941849e37e293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_14
+    second: {fileID: 2100000, guid: 912e86e88a9b363429b59d98b8bc1bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_15
+    second: {fileID: 2100000, guid: 64e445f5eb0118e45b9cd6bc8f87183e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_16
+    second: {fileID: 2100000, guid: 22eede18cfcbcbd44bb9bb621fce96c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_17
+    second: {fileID: 2100000, guid: 7bc09e6dfe589264e9c3bdc7f441566d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_18
+    second: {fileID: 2100000, guid: d7057c026b3b27743bae1c5bb64255ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_19
+    second: {fileID: 2100000, guid: 8a5841e0f00d40a4a8c2718b5d608e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_20
+    second: {fileID: 2100000, guid: 72e1aec6ab239b74f80f94bad6627504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_21
+    second: {fileID: 2100000, guid: 2269de32c481fd64ea985460e29f29a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_22
+    second: {fileID: 2100000, guid: 3c02a612a98266146a8bbd533b3600a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_23
+    second: {fileID: 2100000, guid: 55630781298849d43835c8b8c6dc69ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_24
+    second: {fileID: 2100000, guid: bca9d5768db4a244bb4d748cd851becf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_25
+    second: {fileID: 2100000, guid: 7da1d378ad5ee294c82ae64e5f675f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookshelf.1
+    second: {fileID: 2100000, guid: 7274a14c3c73dac4a88f75677f39f7e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cactus.1
+    second: {fileID: 2100000, guid: 8d72d2c56c10ee541a776ccab15e7ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coke.1
+    second: {fileID: 2100000, guid: 18c85449394bcf942b89b71003d7b869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cushion_01.1
+    second: {fileID: 2100000, guid: c755105c9df58e64cb157a1278a618d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cushion_02.1
+    second: {fileID: 2100000, guid: 93442ebeb6610c44db2d3e1b76c072dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: desk.1
+    second: {fileID: 2100000, guid: f6db79b95dbaa474b9ef48e37cb31ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_01.1
+    second: {fileID: 2100000, guid: 94b8fc1dc57dfc44abc556a8ef83167d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_02.1
+    second: {fileID: 2100000, guid: d3aa746876fa95240b8c8f611bbddbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_03.1
+    second: {fileID: 2100000, guid: d9928ba41393a8744a5410f3f2a4e619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long stand
+    second: {fileID: 2100000, guid: 7d453243d8e4fd148b093849dc784a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mini clock.1
+    second: {fileID: 2100000, guid: dbfce7d1b2eed6d44b0fbab94a2f241c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mini sofa.1
+    second: {fileID: 2100000, guid: f2560a47705f9fa409d85c54f2b94377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pizza box.1
+    second: {fileID: 2100000, guid: 2b73bc21fd189aa408445cbbc7940611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pizza.1
+    second: {fileID: 2100000, guid: f615ff120e65a724ba3a3dba044fc233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug.1
+    second: {fileID: 2100000, guid: 3205a6d8b6c9e6446af1236bba93caa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sofa.1
+    second: {fileID: 2100000, guid: 145392c4eb062f0479b8904dd397c485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_01
+    second: {fileID: 2100000, guid: ec0774d75693e9745bf30b6a1ab9d9a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_02.1
+    second: {fileID: 2100000, guid: ccd02569ea5c2a94988da5d0191b0fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv.1
+    second: {fileID: 2100000, guid: d10da98b1491d5c4799ea21e1dbce5dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: up stand
+    second: {fileID: 2100000, guid: b387afe35fd64d841b45da5b60a88575, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

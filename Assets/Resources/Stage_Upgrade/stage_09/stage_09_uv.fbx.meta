@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 60177cad8da855147a7c3a9c1137ad48
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: cloud
+    100004: cloud_1
+    100006: cloud_3
+    100008: cloud_4
+    100010: cloud_5
+    100012: cloud_6
+    100014: cloud_7
+    100016: corn_01
+    100018: corn_02
+    100020: cow_01_01
+    100022: cow_01_02_1
+    100024: cow_02_01
+    100026: cow_02_02_1
+    100028: cow_03_01
+    100030: cow_03_02_1
+    100032: Direct002
+    100034: Direct004
+    100036: Direct005
+    100038: Direct006
+    100040: FDirect001
+    100042: flag_01_1
+    100044: Flag_02_1
+    100046: High_Way_1
+    100048: High_Way_2
+    100050: ICE_cream_car_1
+    100052: Ice_Cream_wheel_1
+    100054: milk_factory_1
+    100056: nomal_car_body_1
+    100058: nomal_car_wheel_1
+    100060: sensor_5
+    100062: sensor_6
+    100064: sensor_7
+    100066: sensor_8
+    100068: sensor_9
+    100070: //RootNode
+    100072: Stage_camera
+    100074: store_1
+    100076: table_set_1
+    100078: tree_11
+    100080: Unity_setting
+    400000: bg_1
+    400002: cloud
+    400004: cloud_1
+    400006: cloud_3
+    400008: cloud_4
+    400010: cloud_5
+    400012: cloud_6
+    400014: cloud_7
+    400016: corn_01
+    400018: corn_02
+    400020: cow_01_01
+    400022: cow_01_02_1
+    400024: cow_02_01
+    400026: cow_02_02_1
+    400028: cow_03_01
+    400030: cow_03_02_1
+    400032: Direct002
+    400034: Direct004
+    400036: Direct005
+    400038: Direct006
+    400040: FDirect001
+    400042: flag_01_1
+    400044: Flag_02_1
+    400046: High_Way_1
+    400048: High_Way_2
+    400050: ICE_cream_car_1
+    400052: Ice_Cream_wheel_1
+    400054: milk_factory_1
+    400056: nomal_car_body_1
+    400058: nomal_car_wheel_1
+    400060: sensor_5
+    400062: sensor_6
+    400064: sensor_7
+    400066: sensor_8
+    400068: sensor_9
+    400070: //RootNode
+    400072: Stage_camera
+    400074: store_1
+    400076: table_set_1
+    400078: tree_11
+    400080: Unity_setting
+    2000000: Stage_camera
+    2100000: High Way.1
+    2100002: milk factory
+    2100004: store
+    2100006: flag_01.1
+    2100008: Flag_02.1
+    2100010: corn
+    2100012: cloud
+    2100014: sensor
+    2100016: cow_dot
+    2100018: bg.1
+    2100020: High Way
+    2100022: tree
+    2100024: cow_01_02
+    2100026: cow_02_02
+    2100028: cow_03_02
+    2100030: table set.1
+    2100032: nomal car_wheel
+    2100034: nomal car_body
+    2100036: ICE cream car
+    2100038: Ice Cream_wheel
+    2300000: bg_1
+    2300002: cloud
+    2300004: cloud_1
+    2300006: cloud_3
+    2300008: cloud_4
+    2300010: cloud_5
+    2300012: cloud_6
+    2300014: cloud_7
+    2300016: corn_01
+    2300018: corn_02
+    2300020: cow_01_01
+    2300022: cow_01_02_1
+    2300024: cow_02_01
+    2300026: cow_02_02_1
+    2300028: cow_03_01
+    2300030: cow_03_02_1
+    2300032: flag_01_1
+    2300034: Flag_02_1
+    2300036: High_Way_1
+    2300038: High_Way_2
+    2300040: ICE_cream_car_1
+    2300042: Ice_Cream_wheel_1
+    2300044: milk_factory_1
+    2300046: nomal_car_body_1
+    2300048: nomal_car_wheel_1
+    2300050: sensor_5
+    2300052: sensor_6
+    2300054: sensor_7
+    2300056: sensor_8
+    2300058: sensor_9
+    2300060: store_1
+    2300062: table_set_1
+    2300064: tree_11
+    3300000: bg_1
+    3300002: cloud
+    3300004: cloud_1
+    3300006: cloud_3
+    3300008: cloud_4
+    3300010: cloud_5
+    3300012: cloud_6
+    3300014: cloud_7
+    3300016: corn_01
+    3300018: corn_02
+    3300020: cow_01_01
+    3300022: cow_01_02_1
+    3300024: cow_02_01
+    3300026: cow_02_02_1
+    3300028: cow_03_01
+    3300030: cow_03_02_1
+    3300032: flag_01_1
+    3300034: Flag_02_1
+    3300036: High_Way_1
+    3300038: High_Way_2
+    3300040: ICE_cream_car_1
+    3300042: Ice_Cream_wheel_1
+    3300044: milk_factory_1
+    3300046: nomal_car_body_1
+    3300048: nomal_car_wheel_1
+    3300050: sensor_5
+    3300052: sensor_6
+    3300054: sensor_7
+    3300056: sensor_8
+    3300058: sensor_9
+    3300060: store_1
+    3300062: table_set_1
+    3300064: tree_11
+    4300000: High_Way_2
+    4300002: milk_factory_1
+    4300004: store_1
+    4300006: flag_01_1
+    4300008: Flag_02_1
+    4300010: corn_02
+    4300012: cloud_7
+    4300014: cloud_6
+    4300016: cloud_5
+    4300018: cloud_4
+    4300020: cloud_3
+    4300022: cloud_1
+    4300024: cloud
+    4300026: sensor_9
+    4300028: sensor_8
+    4300030: sensor_7
+    4300032: sensor_6
+    4300034: sensor_5
+    4300036: cow_03_01
+    4300038: cow_02_01
+    4300040: cow_01_01
+    4300042: bg_1
+    4300044: High_Way_1
+    4300046: tree_11
+    4300048: cow_01_02_1
+    4300050: cow_02_02_1
+    4300052: cow_03_02_1
+    4300054: table_set_1
+    4300056: corn_01
+    4300058: nomal_car_wheel_1
+    4300060: nomal_car_body_1
+    4300062: ICE_cream_car_1
+    4300064: Ice_Cream_wheel_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

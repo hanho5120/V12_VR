@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: e7b727e0dcb36cb4faf7ee3b3bd905fd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: book_02_1
+    100004: book_03_1
+    100006: book_04_1
+    100008: book_05_1
+    100010: book_06_1
+    100012: book_07_1
+    100014: book_08_1
+    100016: book_09_1
+    100018: book_1
+    100020: book_10_1
+    100022: book_11_1
+    100024: book_12_1
+    100026: book_14_1
+    100028: book_15_1
+    100030: book_16_1
+    100032: book_17_1
+    100034: book_18_1
+    100036: book_19_1
+    100038: book_20_1
+    100040: book_21_1
+    100042: book_22_1
+    100044: book_23_1
+    100046: book_24_1
+    100048: book_25_1
+    100050: book_26_1
+    100052: book_27_1
+    100054: book_28_1
+    100056: book_29_1
+    100058: book_30_1
+    100060: book_31_1
+    100062: Bookshelf_1
+    100064: cactus_1
+    100066: Calendar_1
+    100068: chair_1
+    100070: clock_1
+    100072: Desk_1
+    100074: Direct002
+    100076: Direct004
+    100078: Direct005
+    100080: Direct006
+    100082: drawer_1
+    100084: fan_body_1
+    100086: fan_wing_1
+    100088: FDirect001
+    100090: frame_01_1
+    100092: frame_02_1
+    100094: laptop_1
+    100096: mini_clock_1
+    100098: record_1
+    100100: Rug_1
+    100102: speaker_1
+    100104: //RootNode
+    100106: Stage_camera
+    100108: stand
+    100110: Unity_setting
+    100112: up_stand_1
+    100114: wardrobe_1
+    400000: bg_1
+    400002: book_02_1
+    400004: book_03_1
+    400006: book_04_1
+    400008: book_05_1
+    400010: book_06_1
+    400012: book_07_1
+    400014: book_08_1
+    400016: book_09_1
+    400018: book_1
+    400020: book_10_1
+    400022: book_11_1
+    400024: book_12_1
+    400026: book_14_1
+    400028: book_15_1
+    400030: book_16_1
+    400032: book_17_1
+    400034: book_18_1
+    400036: book_19_1
+    400038: book_20_1
+    400040: book_21_1
+    400042: book_22_1
+    400044: book_23_1
+    400046: book_24_1
+    400048: book_25_1
+    400050: book_26_1
+    400052: book_27_1
+    400054: book_28_1
+    400056: book_29_1
+    400058: book_30_1
+    400060: book_31_1
+    400062: Bookshelf_1
+    400064: cactus_1
+    400066: Calendar_1
+    400068: chair_1
+    400070: clock_1
+    400072: Desk_1
+    400074: Direct002
+    400076: Direct004
+    400078: Direct005
+    400080: Direct006
+    400082: drawer_1
+    400084: fan_body_1
+    400086: fan_wing_1
+    400088: FDirect001
+    400090: frame_01_1
+    400092: frame_02_1
+    400094: laptop_1
+    400096: mini_clock_1
+    400098: record_1
+    400100: Rug_1
+    400102: speaker_1
+    400104: //RootNode
+    400106: Stage_camera
+    400108: stand
+    400110: Unity_setting
+    400112: up_stand_1
+    400114: wardrobe_1
+    2000000: Stage_camera
+    2100000: long stand
+    2100002: bg.1
+    2100004: Rug
+    2100006: Desk
+    2100008: laptop.1
+    2100010: chair.1
+    2100012: record.1
+    2100014: fan_wing
+    2100016: fan_body
+    2100018: Bookshelf
+    2100020: wardrobe.1
+    2100022: clock.1
+    2100024: cactus.1
+    2100026: frame_02.1
+    2100028: frame_01
+    2100030: Calendar
+    2100032: speaker.1
+    2100034: drawer.1
+    2100036: mini clock.1
+    2100038: book_31
+    2100040: book_30
+    2100042: book_29
+    2100044: book_28
+    2100046: book_27
+    2100048: book_26
+    2100050: book_25
+    2100052: book_24
+    2100054: book_23
+    2100056: book_22
+    2100058: book_21
+    2100060: book_20
+    2100062: book_19
+    2100064: book_18
+    2100066: book_17
+    2100068: book_16
+    2100070: book_15
+    2100072: book_14
+    2100074: book_12
+    2100076: book_11
+    2100078: book_10
+    2100080: book_09
+    2100082: book_08
+    2100084: book_07
+    2100086: book_06
+    2100088: book_05
+    2100090: book_04
+    2100092: book_03
+    2100094: book_02
+    2100096: book
+    2100098: up stand
+    2300000: bg_1
+    2300002: book_02_1
+    2300004: book_03_1
+    2300006: book_04_1
+    2300008: book_05_1
+    2300010: book_06_1
+    2300012: book_07_1
+    2300014: book_08_1
+    2300016: book_09_1
+    2300018: book_1
+    2300020: book_10_1
+    2300022: book_11_1
+    2300024: book_12_1
+    2300026: book_14_1
+    2300028: book_15_1
+    2300030: book_16_1
+    2300032: book_17_1
+    2300034: book_18_1
+    2300036: book_19_1
+    2300038: book_20_1
+    2300040: book_21_1
+    2300042: book_22_1
+    2300044: book_23_1
+    2300046: book_24_1
+    2300048: book_25_1
+    2300050: book_26_1
+    2300052: book_27_1
+    2300054: book_28_1
+    2300056: book_29_1
+    2300058: book_30_1
+    2300060: book_31_1
+    2300062: Bookshelf_1
+    2300064: cactus_1
+    2300066: Calendar_1
+    2300068: chair_1
+    2300070: clock_1
+    2300072: Desk_1
+    2300074: drawer_1
+    2300076: fan_body_1
+    2300078: fan_wing_1
+    2300080: frame_01_1
+    2300082: frame_02_1
+    2300084: laptop_1
+    2300086: mini_clock_1
+    2300088: record_1
+    2300090: Rug_1
+    2300092: speaker_1
+    2300094: stand
+    2300096: up_stand_1
+    2300098: wardrobe_1
+    3300000: bg_1
+    3300002: book_02_1
+    3300004: book_03_1
+    3300006: book_04_1
+    3300008: book_05_1
+    3300010: book_06_1
+    3300012: book_07_1
+    3300014: book_08_1
+    3300016: book_09_1
+    3300018: book_1
+    3300020: book_10_1
+    3300022: book_11_1
+    3300024: book_12_1
+    3300026: book_14_1
+    3300028: book_15_1
+    3300030: book_16_1
+    3300032: book_17_1
+    3300034: book_18_1
+    3300036: book_19_1
+    3300038: book_20_1
+    3300040: book_21_1
+    3300042: book_22_1
+    3300044: book_23_1
+    3300046: book_24_1
+    3300048: book_25_1
+    3300050: book_26_1
+    3300052: book_27_1
+    3300054: book_28_1
+    3300056: book_29_1
+    3300058: book_30_1
+    3300060: book_31_1
+    3300062: Bookshelf_1
+    3300064: cactus_1
+    3300066: Calendar_1
+    3300068: chair_1
+    3300070: clock_1
+    3300072: Desk_1
+    3300074: drawer_1
+    3300076: fan_body_1
+    3300078: fan_wing_1
+    3300080: frame_01_1
+    3300082: frame_02_1
+    3300084: laptop_1
+    3300086: mini_clock_1
+    3300088: record_1
+    3300090: Rug_1
+    3300092: speaker_1
+    3300094: stand
+    3300096: up_stand_1
+    3300098: wardrobe_1
+    4300000: stand
+    4300002: bg_1
+    4300004: Rug_1
+    4300006: Desk_1
+    4300008: laptop_1
+    4300010: chair_1
+    4300012: record_1
+    4300014: fan_wing_1
+    4300016: fan_body_1
+    4300018: Bookshelf_1
+    4300020: wardrobe_1
+    4300022: clock_1
+    4300024: cactus_1
+    4300026: frame_02_1
+    4300028: frame_01_1
+    4300030: Calendar_1
+    4300032: speaker_1
+    4300034: drawer_1
+    4300036: mini_clock_1
+    4300038: book_31_1
+    4300040: book_30_1
+    4300042: book_29_1
+    4300044: book_28_1
+    4300046: book_27_1
+    4300048: book_26_1
+    4300050: book_25_1
+    4300052: book_24_1
+    4300054: book_23_1
+    4300056: book_22_1
+    4300058: book_21_1
+    4300060: book_20_1
+    4300062: book_19_1
+    4300064: book_18_1
+    4300066: book_17_1
+    4300068: book_16_1
+    4300070: book_15_1
+    4300072: book_14_1
+    4300074: book_12_1
+    4300076: book_11_1
+    4300078: book_10_1
+    4300080: book_09_1
+    4300082: book_08_1
+    4300084: book_07_1
+    4300086: book_06_1
+    4300088: book_05_1
+    4300090: book_04_1
+    4300092: book_03_1
+    4300094: book_02_1
+    4300096: book_1
+    4300098: up_stand_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookshelf
+    second: {fileID: 2100000, guid: 4a2d5c6f664602541b2a200e2a35ed6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calendar
+    second: {fileID: 2100000, guid: 45e3cf34affbc794293700ec98bab450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desk
+    second: {fileID: 2100000, guid: a73e5e95e5f8a6740b73b3898c5e47f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rug
+    second: {fileID: 2100000, guid: 12e43359e6d23104c8fca90c526539bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg.1
+    second: {fileID: 2100000, guid: 53e76566c08a0d8488bbed6d0b297dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book
+    second: {fileID: 2100000, guid: 3c6c2a7bc5c2f2747af1ab693f2ee8d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_02
+    second: {fileID: 2100000, guid: 59af9ddf61bef944fa191e161631f300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_03
+    second: {fileID: 2100000, guid: b325a44396f5f8e4fbddbd042f74eca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_04
+    second: {fileID: 2100000, guid: 8b94cebf45ea06947a6f276c21c539f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_05
+    second: {fileID: 2100000, guid: 1d87a95031a1c954094ee256915488cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_06
+    second: {fileID: 2100000, guid: 5b85fe8d38e55884da860dcfe8dabcdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_07
+    second: {fileID: 2100000, guid: 1bc126abe43ac9b4bb27728f70c55c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_08
+    second: {fileID: 2100000, guid: ed6df62d87bd3c84e8fd8186b2fbaa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_09
+    second: {fileID: 2100000, guid: ee95b6034ba7df146b4123d2d52848d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_10
+    second: {fileID: 2100000, guid: 1229d4c80e877424e857263a7e1654e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_11
+    second: {fileID: 2100000, guid: c5315d47ea4f8094896035cafe7df427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_12
+    second: {fileID: 2100000, guid: 3bd5666e2d628274c8c8b835467ebf0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_14
+    second: {fileID: 2100000, guid: 85355260eea657f4e9bb675280032728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_15
+    second: {fileID: 2100000, guid: fa1dff27251ff3a4f9afdf4e89e2ab7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_16
+    second: {fileID: 2100000, guid: e71d2e71e8b34dd418a8c6ce45bb4d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_17
+    second: {fileID: 2100000, guid: fb0ec8abfdfeae641a9cb289e0816f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_18
+    second: {fileID: 2100000, guid: 430b8629e59f23444956dbb78f6e521b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_19
+    second: {fileID: 2100000, guid: e6ac5542cd367ec4d89aea1bd04223dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_20
+    second: {fileID: 2100000, guid: 7de35aca61796524988d2e5a4d9ad117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_21
+    second: {fileID: 2100000, guid: d63ee403e8fbabb42a14ca0a92e49006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_22
+    second: {fileID: 2100000, guid: ff94f07629f230a43a904989704159e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_23
+    second: {fileID: 2100000, guid: 5921ecc7bbaedfb43bfdb0d151de433a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_24
+    second: {fileID: 2100000, guid: 9e5eb7efc244d5b499c2d11c80eb55b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_25
+    second: {fileID: 2100000, guid: fae66c48cb5e77b4d8887720aacb36f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_26
+    second: {fileID: 2100000, guid: 0a0b5dc9ca6c7504881288840100816b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_27
+    second: {fileID: 2100000, guid: e3dbca711327bbd4fb849d8a149f0b79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_28
+    second: {fileID: 2100000, guid: 4c6233de117055f4c88ec0ffa38d4c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_29
+    second: {fileID: 2100000, guid: 1d0c4039c155813418587208f841e33f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_30
+    second: {fileID: 2100000, guid: d0a7d1952db0ed746a5ae9669bd30e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_31
+    second: {fileID: 2100000, guid: 008c4db238425b2428048af0d27966ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cactus.1
+    second: {fileID: 2100000, guid: d27491bc8da3ec44b86a5de44e09de30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair.1
+    second: {fileID: 2100000, guid: 1596463575cd1ac47aeedfd49f20a6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock.1
+    second: {fileID: 2100000, guid: 955dac1c6bece0d4c947ba402691ebf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawer.1
+    second: {fileID: 2100000, guid: fd0109cf9e681554fa4cd57b8a087d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan_body
+    second: {fileID: 2100000, guid: a2eac98bddae53f40865dc665bd1f8b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan_wing
+    second: {fileID: 2100000, guid: 0048be69f5e3264409c9fee08078b5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_01
+    second: {fileID: 2100000, guid: 17e0f4996dfd80e4a9adce907ba7fa08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_02.1
+    second: {fileID: 2100000, guid: b044a07056338554aa94c8369a677ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laptop.1
+    second: {fileID: 2100000, guid: b6fb0e44f9b52e74abd31cce50c2be9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long stand
+    second: {fileID: 2100000, guid: b37aa62903d1927498a30098bdeb04c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mini clock.1
+    second: {fileID: 2100000, guid: 9d35654b13302284089d3db028059838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: record.1
+    second: {fileID: 2100000, guid: f307f381b3516074bbdf54930e5c77aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker.1
+    second: {fileID: 2100000, guid: c1c1f91fe4642524e8788a520cd532cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: up stand
+    second: {fileID: 2100000, guid: 350dcf766584bf94896134a043ea0f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wardrobe.1
+    second: {fileID: 2100000, guid: 8f2b2e660636cde4387a1e05e79e2af0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

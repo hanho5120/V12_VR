@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 2e2e2814f694fe14b955413d2950ddc7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bg_1
+    100002: Building_01_1
+    100004: Building_02_1
+    100006: Building_03_1
+    100008: Building_04_1
+    100010: Building_05_1
+    100012: Building_06_1
+    100014: Building_07_1
+    100016: Building_08_1
+    100018: Building_09_1
+    100020: corn_1
+    100022: CRANE
+    100024: Direct002
+    100026: Direct004
+    100028: Direct005
+    100030: Direct006
+    100032: FDirect001
+    100034: fence
+    100036: lamp_1
+    100038: Mini_Truck_1
+    100040: mini_truck_Wheel_1
+    100042: sensor_5
+    100044: sensor_6
+    100046: sensor_7
+    100048: sensor_8
+    100050: sensor_9
+    100052: //RootNode
+    100054: Stage_camera
+    100056: Trash_Can_1
+    100058: TREE_1
+    100060: Unity_setting
+    100062: warn_sign_1
+    400000: bg_1
+    400002: Building_01_1
+    400004: Building_02_1
+    400006: Building_03_1
+    400008: Building_04_1
+    400010: Building_05_1
+    400012: Building_06_1
+    400014: Building_07_1
+    400016: Building_08_1
+    400018: Building_09_1
+    400020: corn_1
+    400022: CRANE
+    400024: Direct002
+    400026: Direct004
+    400028: Direct005
+    400030: Direct006
+    400032: FDirect001
+    400034: fence
+    400036: lamp_1
+    400038: Mini_Truck_1
+    400040: mini_truck_Wheel_1
+    400042: sensor_5
+    400044: sensor_6
+    400046: sensor_7
+    400048: sensor_8
+    400050: sensor_9
+    400052: //RootNode
+    400054: Stage_camera
+    400056: Trash_Can_1
+    400058: TREE_1
+    400060: Unity_setting
+    400062: warn_sign_1
+    2000000: Stage_camera
+    2100000: Building_07.2
+    2100002: sensor.1
+    2100004: bg.2
+    2100006: warn sign.1
+    2100008: TREE
+    2100010: Building_09.1
+    2100012: Building_08.1
+    2100014: Building_06.1
+    2100016: Building_05.1
+    2100018: Building_04.1
+    2100020: Building_03.1
+    2100022: Building_02.1
+    2100024: Building_01.1
+    2100026: Trash Can
+    2100028: CRANE
+    2100030: corn.1
+    2100032: Mini Truck
+    2100034: mini truck_Wheel
+    2100036: lamp.1
+    2100038: fence
+    2300000: bg_1
+    2300002: Building_01_1
+    2300004: Building_02_1
+    2300006: Building_03_1
+    2300008: Building_04_1
+    2300010: Building_05_1
+    2300012: Building_06_1
+    2300014: Building_07_1
+    2300016: Building_08_1
+    2300018: Building_09_1
+    2300020: corn_1
+    2300022: CRANE
+    2300024: fence
+    2300026: lamp_1
+    2300028: Mini_Truck_1
+    2300030: mini_truck_Wheel_1
+    2300032: sensor_5
+    2300034: sensor_6
+    2300036: sensor_7
+    2300038: sensor_8
+    2300040: sensor_9
+    2300042: Trash_Can_1
+    2300044: TREE_1
+    2300046: warn_sign_1
+    3300000: bg_1
+    3300002: Building_01_1
+    3300004: Building_02_1
+    3300006: Building_03_1
+    3300008: Building_04_1
+    3300010: Building_05_1
+    3300012: Building_06_1
+    3300014: Building_07_1
+    3300016: Building_08_1
+    3300018: Building_09_1
+    3300020: corn_1
+    3300022: CRANE
+    3300024: fence
+    3300026: lamp_1
+    3300028: Mini_Truck_1
+    3300030: mini_truck_Wheel_1
+    3300032: sensor_5
+    3300034: sensor_6
+    3300036: sensor_7
+    3300038: sensor_8
+    3300040: sensor_9
+    3300042: Trash_Can_1
+    3300044: TREE_1
+    3300046: warn_sign_1
+    4300000: Building_07_1
+    4300002: sensor_9
+    4300004: sensor_8
+    4300006: sensor_7
+    4300008: sensor_6
+    4300010: sensor_5
+    4300012: bg_1
+    4300014: warn_sign_1
+    4300016: TREE_1
+    4300018: Building_09_1
+    4300020: Building_08_1
+    4300022: Building_06_1
+    4300024: Building_05_1
+    4300026: Building_04_1
+    4300028: Building_03_1
+    4300030: Building_02_1
+    4300032: Building_01_1
+    4300034: Trash_Can_1
+    4300036: CRANE
+    4300038: corn_1
+    4300040: Mini_Truck_1
+    4300042: mini_truck_Wheel_1
+    4300044: lamp_1
+    4300046: fence
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

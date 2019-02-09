@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: c1d8ab09cef9e154885ffcf0f9540ddf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balloons_1
+    100002: bench
+    100004: bg_1
+    100006: castle_1
+    100008: character_1
+    100010: cloud
+    100012: Direct002
+    100014: Direct004
+    100016: Direct005
+    100018: Direct006
+    100020: FDirect001
+    100022: Ferris_wheel_1
+    100024: Flags_01
+    100026: Flags_01_1
+    100028: ground_1
+    100030: ICE_cream_car_1
+    100032: Ice_Cream_wheel_1
+    100034: nomal_car_body_1
+    100036: nomal_car_wheel_1
+    100038: sensor_5
+    100040: sensor_6
+    100042: sensor_7
+    100044: sensor_8
+    100046: sensor_9
+    100048: //RootNode
+    100050: Stage_camera
+    100052: street_lamp
+    100054: tent
+    100056: tent_1
+    100058: tent_2
+    100060: tent_2_2
+    100062: tent_3
+    100064: trees_1
+    100066: Unity_setting
+    400000: balloons_1
+    400002: bench
+    400004: bg_1
+    400006: castle_1
+    400008: character_1
+    400010: cloud
+    400012: Direct002
+    400014: Direct004
+    400016: Direct005
+    400018: Direct006
+    400020: FDirect001
+    400022: Ferris_wheel_1
+    400024: Flags_01
+    400026: Flags_01_1
+    400028: ground_1
+    400030: ICE_cream_car_1
+    400032: Ice_Cream_wheel_1
+    400034: nomal_car_body_1
+    400036: nomal_car_wheel_1
+    400038: sensor_5
+    400040: sensor_6
+    400042: sensor_7
+    400044: sensor_8
+    400046: sensor_9
+    400048: //RootNode
+    400050: Stage_camera
+    400052: street_lamp
+    400054: tent
+    400056: tent_1
+    400058: tent_2
+    400060: tent_2_2
+    400062: tent_3
+    400064: trees_1
+    400066: Unity_setting
+    2000000: Stage_camera
+    2100000: flags
+    2100002: bench
+    2100004: tent
+    2100006: tent4
+    2100008: tent3
+    2100010: tent2
+    2100012: lamp
+    2100014: cloud
+    2100016: ICE cream car.3
+    2100018: Ice Cream_wheel.3
+    2100020: sensor.1
+    2100022: bg.1
+    2100024: ground.1
+    2100026: castle
+    2100028: balloons
+    2100030: tree
+    2100032: Ferris wheel.1
+    2100034: nomal car_wheel
+    2100036: nomal car_body
+    2100038: character
+    2300000: balloons_1
+    2300002: bench
+    2300004: bg_1
+    2300006: castle_1
+    2300008: character_1
+    2300010: cloud
+    2300012: Ferris_wheel_1
+    2300014: Flags_01
+    2300016: Flags_01_1
+    2300018: ground_1
+    2300020: ICE_cream_car_1
+    2300022: Ice_Cream_wheel_1
+    2300024: nomal_car_body_1
+    2300026: nomal_car_wheel_1
+    2300028: sensor_5
+    2300030: sensor_6
+    2300032: sensor_7
+    2300034: sensor_8
+    2300036: sensor_9
+    2300038: street_lamp
+    2300040: tent_1
+    2300042: tent_2
+    2300044: tent_2_2
+    2300046: tent_3
+    2300048: trees_1
+    3300000: balloons_1
+    3300002: bench
+    3300004: bg_1
+    3300006: castle_1
+    3300008: character_1
+    3300010: cloud
+    3300012: Ferris_wheel_1
+    3300014: Flags_01
+    3300016: Flags_01_1
+    3300018: ground_1
+    3300020: ICE_cream_car_1
+    3300022: Ice_Cream_wheel_1
+    3300024: nomal_car_body_1
+    3300026: nomal_car_wheel_1
+    3300028: sensor_5
+    3300030: sensor_6
+    3300032: sensor_7
+    3300034: sensor_8
+    3300036: sensor_9
+    3300038: street_lamp
+    3300040: tent_1
+    3300042: tent_2
+    3300044: tent_2_2
+    3300046: tent_3
+    3300048: trees_1
+    4300000: Flags_01
+    4300002: bench
+    4300004: tent_2
+    4300006: tent_3
+    4300008: tent_2_2
+    4300010: tent_1
+    4300012: street_lamp
+    4300014: cloud
+    4300016: ICE_cream_car_1
+    4300018: Ice_Cream_wheel_1
+    4300020: sensor_9
+    4300022: sensor_8
+    4300024: sensor_7
+    4300026: sensor_6
+    4300028: sensor_5
+    4300030: bg_1
+    4300032: ground_1
+    4300034: Flags_01_1
+    4300036: castle_1
+    4300038: balloons_1
+    4300040: trees_1
+    4300042: Ferris_wheel_1
+    4300044: nomal_car_wheel_1
+    4300046: nomal_car_body_1
+    4300048: character_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

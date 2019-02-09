@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 195e4be306200c54c95711164827cf3f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bad_1
+    100002: bg_1
+    100004: blanket_
+    100006: book_01_1
+    100008: book_02_1
+    100010: book_03_1
+    100012: character_1
+    100014: Direct002
+    100016: Direct004
+    100018: Direct005
+    100020: Direct006
+    100022: DOG_1
+    100024: Dog_bowl_1
+    100026: Dog_Cushion_1
+    100028: DogBall_1
+    100030: DogBone_1
+    100032: drawer_1
+    100034: FDirect001
+    100036: Frame_01_1
+    100038: Frame_02_1
+    100040: Frame_03_1
+    100042: lamp
+    100044: Pillow_1
+    100046: Rug_1
+    100048: sensor
+    100050: ShoeCloset_1
+    100052: //RootNode
+    100054: Stage_camera
+    100056: table_1
+    100058: Table_clock_1
+    100060: table_Frame_1
+    100062: Unity_setting
+    100064: up_stand
+    100066: wardrobe_1
+    400000: bad_1
+    400002: bg_1
+    400004: blanket_
+    400006: book_01_1
+    400008: book_02_1
+    400010: book_03_1
+    400012: character_1
+    400014: Direct002
+    400016: Direct004
+    400018: Direct005
+    400020: Direct006
+    400022: DOG_1
+    400024: Dog_bowl_1
+    400026: Dog_Cushion_1
+    400028: DogBall_1
+    400030: DogBone_1
+    400032: drawer_1
+    400034: FDirect001
+    400036: Frame_01_1
+    400038: Frame_02_1
+    400040: Frame_03_1
+    400042: lamp
+    400044: Pillow_1
+    400046: Rug_1
+    400048: sensor
+    400050: ShoeCloset_1
+    400052: //RootNode
+    400054: Stage_camera
+    400056: table_1
+    400058: Table_clock_1
+    400060: table_Frame_1
+    400062: Unity_setting
+    400064: up_stand
+    400066: wardrobe_1
+    2000000: Stage_camera
+    2100000: up_stand
+    2100002: lamp
+    2100004: bg.1
+    2100006: Rug
+    2100008: dog ball
+    2100010: Dog bowl
+    2100012: DogBone
+    2100014: Dog Cushion
+    2100016: DOG
+    2100018: Frame_02
+    2100020: Frame_01
+    2100022: Frame_03
+    2100024: table.1
+    2100026: Table clock
+    2100028: bad.1
+    2100030: Pillow
+    2100032: ShoeCloset
+    2100034: table Frame
+    2100036: wardrobe.1
+    2100038: drawer.1
+    2100040: book_01
+    2100042: book_02
+    2100044: book_03
+    2100046: character
+    2100048: sensor.1
+    2100050: Mat
+    2300000: bad_1
+    2300002: bg_1
+    2300004: blanket_
+    2300006: book_01_1
+    2300008: book_02_1
+    2300010: book_03_1
+    2300012: character_1
+    2300014: DOG_1
+    2300016: Dog_bowl_1
+    2300018: Dog_Cushion_1
+    2300020: DogBall_1
+    2300022: DogBone_1
+    2300024: drawer_1
+    2300026: Frame_01_1
+    2300028: Frame_02_1
+    2300030: Frame_03_1
+    2300032: lamp
+    2300034: Pillow_1
+    2300036: Rug_1
+    2300038: sensor
+    2300040: ShoeCloset_1
+    2300042: table_1
+    2300044: Table_clock_1
+    2300046: table_Frame_1
+    2300048: up_stand
+    2300050: wardrobe_1
+    3300000: bad_1
+    3300002: bg_1
+    3300004: blanket_
+    3300006: book_01_1
+    3300008: book_02_1
+    3300010: book_03_1
+    3300012: character_1
+    3300014: DOG_1
+    3300016: Dog_bowl_1
+    3300018: Dog_Cushion_1
+    3300020: DogBall_1
+    3300022: DogBone_1
+    3300024: drawer_1
+    3300026: Frame_01_1
+    3300028: Frame_02_1
+    3300030: Frame_03_1
+    3300032: lamp
+    3300034: Pillow_1
+    3300036: Rug_1
+    3300038: sensor
+    3300040: ShoeCloset_1
+    3300042: table_1
+    3300044: Table_clock_1
+    3300046: table_Frame_1
+    3300048: up_stand
+    3300050: wardrobe_1
+    4300000: up_stand
+    4300002: lamp
+    4300004: bg_1
+    4300006: Rug_1
+    4300008: DogBall_1
+    4300010: Dog_bowl_1
+    4300012: DogBone_1
+    4300014: Dog_Cushion_1
+    4300016: DOG_1
+    4300018: Frame_02_1
+    4300020: Frame_01_1
+    4300022: Frame_03_1
+    4300024: table_1
+    4300026: Table_clock_1
+    4300028: bad_1
+    4300030: Pillow_1
+    4300032: ShoeCloset_1
+    4300034: table_Frame_1
+    4300036: wardrobe_1
+    4300038: drawer_1
+    4300040: book_01_1
+    4300042: book_02_1
+    4300044: book_03_1
+    4300046: character_1
+    4300048: sensor
+    4300050: blanket_
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOG
+    second: {fileID: 2100000, guid: 25a1af3f175246647ab7c8aac7cffbc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog Cushion
+    second: {fileID: 2100000, guid: b23ce144110d1ed41ab4c583c38c459d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog bowl
+    second: {fileID: 2100000, guid: 9d1b4c196edb6ba4691e9b36ba10f0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DogBone
+    second: {fileID: 2100000, guid: 9268dc77126d5024ca057c684fd74caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_01
+    second: {fileID: 2100000, guid: 84fe01181ee5c8e4598b76867abae93f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_02
+    second: {fileID: 2100000, guid: a987bc71ec018c740947ace7a82d5ed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_03
+    second: {fileID: 2100000, guid: 51f28ea223d3f034da98b074d4545ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: cb548d30ec55b4140b02cb531bc376de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow
+    second: {fileID: 2100000, guid: 56c98f5ec08a89b4780cbf9a87ff8fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rug
+    second: {fileID: 2100000, guid: 35730223730a3ee478ef5a15240f3643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeCloset
+    second: {fileID: 2100000, guid: 356c61c3d32ca924fb5e23752975aac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table clock
+    second: {fileID: 2100000, guid: 2467d241a38f1a64991135a02797968a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bad.1
+    second: {fileID: 2100000, guid: 612781acb2bab134092039722041b4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg.1
+    second: {fileID: 2100000, guid: 7fc2f38b70ecf41478648e9775f810e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_01
+    second: {fileID: 2100000, guid: 024366d11d2d3764a8709629db96cbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_02
+    second: {fileID: 2100000, guid: b41ebd2602ab5704496e529e40bf4f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_03
+    second: {fileID: 2100000, guid: 640473b9fe4e2104ab066d013b417150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character
+    second: {fileID: 2100000, guid: eecf40dcd63c5ca40931e32e6184d035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dog ball
+    second: {fileID: 2100000, guid: ca2690050b4a17a4cae9037f9893f09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawer.1
+    second: {fileID: 2100000, guid: 0a18d61edfb4b9f4081e138453da7f16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp
+    second: {fileID: 2100000, guid: 53ca42bde5b31dc4ca2368633321b5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sensor.1
+    second: {fileID: 2100000, guid: 34b00d4e8d1bfd7438ba6d3bd338d379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table Frame
+    second: {fileID: 2100000, guid: c4cd583320f77d445819608147b3566b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table.1
+    second: {fileID: 2100000, guid: 2e0a36437224fdc4c8a2565c0d1f3e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: up_stand
+    second: {fileID: 2100000, guid: cd6474bb64642fb4aafe167bd2a5b6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wardrobe.1
+    second: {fileID: 2100000, guid: 09866fce187eb0e43bf4cab159b67765, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

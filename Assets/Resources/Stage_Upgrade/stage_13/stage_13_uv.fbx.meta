@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: f243e10dbfca45d47ac9e97f2931a97c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beetle_1
+    100002: beetle_wheel_1
+    100004: bg_1
+    100006: big_board_1
+    100008: bus_body_1
+    100010: bus_wheel_1
+    100012: cloud_1
+    100014: cloud_10
+    100016: cloud_11
+    100018: cloud_12
+    100020: cloud_13
+    100022: cloud_8
+    100024: cloud_9
+    100026: Direct002
+    100028: Direct004
+    100030: Direct005
+    100032: Direct006
+    100034: FDirect001
+    100036: ground_1
+    100038: mini_truck_Wheel_1
+    100040: mni_truck_1
+    100042: nomal_car_body_1
+    100044: nomal_car_body_2
+    100046: nomal_car_wheel_1
+    100048: nomal_car_wheel_2
+    100050: sensor_5
+    100052: sensor_6
+    100054: sensor_7
+    100056: sensor_8
+    100058: sensor_9
+    100060: small_billboard_1
+    100062: //RootNode
+    100064: Stage_camera
+    100066: Texi_1
+    100068: texi_wheel_1
+    100070: trees_1
+    100072: Unity_setting
+    400000: beetle_1
+    400002: beetle_wheel_1
+    400004: bg_1
+    400006: big_board_1
+    400008: bus_body_1
+    400010: bus_wheel_1
+    400012: cloud_1
+    400014: cloud_10
+    400016: cloud_11
+    400018: cloud_12
+    400020: cloud_13
+    400022: cloud_8
+    400024: cloud_9
+    400026: Direct002
+    400028: Direct004
+    400030: Direct005
+    400032: Direct006
+    400034: FDirect001
+    400036: ground_1
+    400038: mini_truck_Wheel_1
+    400040: mni_truck_1
+    400042: nomal_car_body_1
+    400044: nomal_car_body_2
+    400046: nomal_car_wheel_1
+    400048: nomal_car_wheel_2
+    400050: sensor_5
+    400052: sensor_6
+    400054: sensor_7
+    400056: sensor_8
+    400058: sensor_9
+    400060: small_billboard_1
+    400062: //RootNode
+    400064: Stage_camera
+    400066: Texi_1
+    400068: texi_wheel_1
+    400070: trees_1
+    400072: Unity_setting
+    2000000: Stage_camera
+    2100000: cloud.1
+    2100002: cloud.2
+    2100004: cloud.3
+    2100006: cloud.4
+    2100008: cloud.5
+    2100010: cloud.6
+    2100012: cloud.7
+    2100014: ground.1
+    2100016: sensor.1
+    2100018: trees
+    2100020: big board.1
+    2100022: small billboard.2
+    2100024: bg.1
+    2100026: beetle_wheel
+    2100028: beetle
+    2100030: bus_wheel
+    2100032: bus body
+    2100034: mni truck
+    2100036: mini truck_Wheel
+    2100038: texi_wheel
+    2100040: Texi
+    2100042: nomal car_wheel
+    2100044: nomal car_body
+    2100046: nomal car_wheel.1
+    2100048: nomal car_body.1
+    2300000: beetle_1
+    2300002: beetle_wheel_1
+    2300004: bg_1
+    2300006: big_board_1
+    2300008: bus_body_1
+    2300010: bus_wheel_1
+    2300012: cloud_1
+    2300014: cloud_10
+    2300016: cloud_11
+    2300018: cloud_12
+    2300020: cloud_13
+    2300022: cloud_8
+    2300024: cloud_9
+    2300026: ground_1
+    2300028: mini_truck_Wheel_1
+    2300030: mni_truck_1
+    2300032: nomal_car_body_1
+    2300034: nomal_car_body_2
+    2300036: nomal_car_wheel_1
+    2300038: nomal_car_wheel_2
+    2300040: sensor_5
+    2300042: sensor_6
+    2300044: sensor_7
+    2300046: sensor_8
+    2300048: sensor_9
+    2300050: small_billboard_1
+    2300052: Texi_1
+    2300054: texi_wheel_1
+    2300056: trees_1
+    3300000: beetle_1
+    3300002: beetle_wheel_1
+    3300004: bg_1
+    3300006: big_board_1
+    3300008: bus_body_1
+    3300010: bus_wheel_1
+    3300012: cloud_1
+    3300014: cloud_10
+    3300016: cloud_11
+    3300018: cloud_12
+    3300020: cloud_13
+    3300022: cloud_8
+    3300024: cloud_9
+    3300026: ground_1
+    3300028: mini_truck_Wheel_1
+    3300030: mni_truck_1
+    3300032: nomal_car_body_1
+    3300034: nomal_car_body_2
+    3300036: nomal_car_wheel_1
+    3300038: nomal_car_wheel_2
+    3300040: sensor_5
+    3300042: sensor_6
+    3300044: sensor_7
+    3300046: sensor_8
+    3300048: sensor_9
+    3300050: small_billboard_1
+    3300052: Texi_1
+    3300054: texi_wheel_1
+    3300056: trees_1
+    4300000: cloud_13
+    4300002: cloud_12
+    4300004: cloud_11
+    4300006: cloud_10
+    4300008: cloud_9
+    4300010: cloud_8
+    4300012: cloud_1
+    4300014: ground_1
+    4300016: sensor_9
+    4300018: sensor_8
+    4300020: sensor_7
+    4300022: sensor_6
+    4300024: sensor_5
+    4300026: trees_1
+    4300028: big_board_1
+    4300030: small_billboard_1
+    4300032: bg_1
+    4300034: beetle_wheel_1
+    4300036: beetle_1
+    4300038: bus_wheel_1
+    4300040: bus_body_1
+    4300042: mni_truck_1
+    4300044: mini_truck_Wheel_1
+    4300046: texi_wheel_1
+    4300048: Texi_1
+    4300050: nomal_car_wheel_2
+    4300052: nomal_car_body_2
+    4300054: nomal_car_wheel_1
+    4300056: nomal_car_body_1
+    10800000: Direct002
+    10800002: Direct004
+    10800004: Direct005
+    10800006: Direct006
+    10800008: FDirect001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
